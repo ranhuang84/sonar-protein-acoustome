@@ -1,0 +1,2 @@
+﻿protein_id,protein_name,input_file,chain_id,category,notes
+193L,Hen egg-white lysozyme,examples/hewl_193L/input/193L.cif,A,disulfide-rich enzyme,HEWL parity validation
